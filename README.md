@@ -12,8 +12,9 @@ it has options like:
 4. delete contact
 5. search contact
 
-used a json server package for dummy api creation
-used symantic UI for styling
+-> used a json server package for dummy api creation,
+
+-> used symantic UI for styling
 
 concepts of react used are:
 1. functional and class components creation
