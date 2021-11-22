@@ -3,8 +3,7 @@ A contact manager using react js library
 
 ![simpleContactManagerVid](https://user-images.githubusercontent.com/42468464/142823531-39c16723-1339-473f-baff-f885c2b05cb4.gif)
 
-used a json server package for dummy api creation
-used symantic UI for styling
+
 
 it has options like:
 1. contact list
@@ -12,6 +11,9 @@ it has options like:
 3. edit contact
 4. delete contact
 5. search contact
+
+used a json server package for dummy api creation
+used symantic UI for styling
 
 concepts of react used are:
 1. functional and class components creation
