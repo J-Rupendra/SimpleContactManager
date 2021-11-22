@@ -1,7 +1,6 @@
 # SimpleContactManager
 A contact manager using react js library
 
-Navigate to below link for a preview of the application
 ![simpleContactManagerVid](https://user-images.githubusercontent.com/42468464/142823531-39c16723-1339-473f-baff-f885c2b05cb4.gif)
 
 used a json server package for dummy api creation
