@@ -1,0 +1,63 @@
+{
+  "contacts": [
+    {
+      "id": "371da8da-dd2b-42d5-bfb3-a54edde862be",
+      "name": "maxa well",
+      "email": "max@gmail.com"
+    },
+    {
+      "id": "9ceed3e5-b6d1-4ae1-9ce7-1ef3fc9a2581",
+      "name": "ChandraKiran",
+      "email": "chandraKiran@gmail.com"
+    },
+    {
+      "id": "d4c1ac12-3bc1-4c0d-9e43-3c1d9e6734f0",
+      "name": "Mouni",
+      "email": "mouni@gmail.com",
+      "nameError": "",
+      "emailError": ""
+    },
+    {
+      "id": "a61e9ad5-a068-4735-8f5d-e3ccf2817343",
+      "name": "Rupe",
+      "email": "Rupe@gmail.com",
+      "nameError": "",
+      "emailError": ""
+    },
+    {
+      "id": "0cba37f8-9dca-45ee-aaa3-9fa55a7e20cf",
+      "name": "new",
+      "email": "rupendraj21@gmail.com",
+      "nameError": "",
+      "emailError": ""
+    },
+    {
+      "id": "a2a2e666-a959-4321-96e7-973efef3f982",
+      "name": "manoj",
+      "email": "manoj@gmail.com",
+      "nameError": "",
+      "emailError": ""
+    },
+    {
+      "id": "a1ecbc5a-280c-4343-ac83-1a610f52997d",
+      "name": "new",
+      "email": "max@gmail.com",
+      "nameError": "",
+      "emailError": ""
+    },
+    {
+      "id": "b5f12539-dd57-4fe8-a669-688af8d36338",
+      "name": "salad",
+      "email": "balnesonu06@gmail.com",
+      "nameError": "",
+      "emailError": ""
+    },
+    {
+      "id": "fddd4c8c-8c8d-45cd-bb82-143f25c4edba",
+      "name": "Max",
+      "email": "balnesonu06@gmail.com",
+      "nameError": "",
+      "emailError": ""
+    }
+  ]
+}
